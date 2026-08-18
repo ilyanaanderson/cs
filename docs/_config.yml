@@ -1,8 +1,7 @@
-title: Ilyana Anderson - Machine Learning, Deep Learning, NLP
+title: Ilyana Anderson
 description: >- # this means to ignore newlines
   Welcome to the personal website of Ilyana Anderson.
-  Here, she presents her projects in Data Science,
-  Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+  Here, she presents her Computer Science projects.
 # in order to use ">-", do not use quotation marks around the string 
 # otherwise, quotes are optional
 # newlines are converted to spaces: remove any spaces at the end of lines
