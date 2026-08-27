@@ -8,6 +8,9 @@ description: >- # this means to ignore newlines
 
 # baseurl: "" # empty string is likely the default
 # url: "" # if commented out, it would be the default (local for local and the site for remote)
+url: "https://ilyanaanderson.github.io"
+baseurl: "/cs"
+
 
 theme: minima
 # plugins:
